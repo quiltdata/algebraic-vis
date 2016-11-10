@@ -1,5 +1,5 @@
 # algebraic-vis
-Jupyter notebooks demonstrating algebraic visuailzation (Kindlmann and Scheidegger)
+Jupyter notebooks demonstrating algebraic visuailzation
 
 ## Videos
 * [Aneesh Karve](http://aneeshkarve.com) speaks at Strata+Hadoop World on [Visualiztaion is distorition: how to lie less](https://www.youtube.com/watch?v=ddCEgJKdDLk)
